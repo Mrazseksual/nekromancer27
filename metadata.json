@@ -1,0 +1,6 @@
+{
+  "name": "Necromancer: The Undying Deck",
+  "description": "Tactical dark-fantasy deckbuilder roguelike featuring necromancy, blood magic, and curse cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
